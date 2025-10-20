@@ -12,7 +12,7 @@ To download and run the script:
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/akutsupis/si504_filesystem/copilot/create-bash-script-filesystem/build_filesystem.sh
+wget https://raw.githubusercontent.com/akutsupis/si504_filesystem/refs/heads/main/build_filesystem.sh
 
 # Make it executable
 chmod +x build_filesystem.sh
